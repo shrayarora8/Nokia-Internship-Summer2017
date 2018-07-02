@@ -1,0 +1,2 @@
+# Nokia-Internship-Summer2017
+Summer 2017 - Internship with Nokia - Bangalore India. Worked on developing a tool that generated reports about nodes on a physical network. It connected to many Transport Network Management Systems across a region. Figuring out things like Which nodes are connected together? What frequencies of the network are used? Are we making efficient use of all the network resources (switches, repeaters, etc.)? 
